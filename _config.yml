@@ -4,8 +4,8 @@ subtitle: Portfólio de Antunes
 email: antunesdantass@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Atividade da disciplina Análise de Dados I
-baseurl: "/analises" # the subpath of your site, e.g. /blog/
-url: "https://antunesdantass.github.io/analises/" # the base hostname & protocol for your site
+baseurl: /analises/ # the subpath of your site, e.g. /blog/
+url: https://antunesdantass.github.io/analises/ # the base hostname & protocol for your site
 github_username:  antunesdantass
 permalink: /:year/:month/:title.html
 

@@ -1,9 +1,11 @@
 ---
-title: "Dados Sobre Séries de TV - Checkpoin 1"
-author: "Antunes Dantas"
-output: html_document
+layout: post
+title: "Dados Sobre Séries de TV - Checkpoint 1"
+date: `r Sys.time()`
 published: true
 tags: [htmlwidgets, r]
+author: "Antunes Silva"
+output: html_document
 ---
 
 Atividade proposta na disciplina Análise de Dados I da Universidade Federal de Campina Grande, este estudo propõe analisar dados de séries de TV obtidos do IMDb, um banco de dados online de filmes e séries.

@@ -1,8 +1,11 @@
 ---
+layout: post
 title: "Problema 3 - Checkpoint 1"
-author: "Antunes Dantas"
+date: `r Sys.time()`
 published: true
 tags: [htmlwidgets, r]
+author: "Antunes Silva"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
